@@ -3,4 +3,59 @@
     /* above not working as of yet */
 }
 
+.brand-name {
+    font-family: 'Merienda One', cursive; 
+    font-size: 40px;
 
+}
+
+.brand-header {
+    font-family: 'Merienda One', cursive; 
+    font-size: 20px;
+    text-align: center;
+    color: #003B46;
+    padding: 8px;
+
+}
+/* font-family: 'Open Sans', sans-serif;
+font-family: 'Merienda One', cursive; */
+
+.row-style-even {
+    background-color: #90afc5;
+    margin-bottom: 10px;
+   
+}
+
+.row-style-odd {
+    background-color: white;
+    
+}
+
+.all-rows {
+
+  
+    padding: 15px;
+
+}
+.banner-color {
+    background-color: #2A3132;
+    color: #c4DFE6;
+    height: 100px;
+    margin-top: 15px;
+    margin-bottom: 15px;
+    padding: 20px;
+    text-align: center;
+    font-family: 'Merienda One', cursive; 
+    font-size: 40px;
+
+    
+}
+
+.nav-color {
+    background-color: #336b87;
+}
+/* color scheme
+deep aqua #003b46
+ocean #07575b
+wave #66A5AD
+seafoam #c4DFE6 */
